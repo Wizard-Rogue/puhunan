@@ -1,0 +1,25 @@
+{
+  "name": "puhunan-api",
+  "version": "0.0.1",
+  "private": true,
+  "contributors": [
+    {
+      "name": "Jabo Barrozo",
+      "email": "jabo@cynder.io"
+    }
+  ],
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "bcrypt": "",
+    "connect-mongo": "~0.3.3",
+    "cron": "",
+    "express": "3.4.8",
+    "express-path": "0.2.3",
+    "jade": "~0.33.0",
+    "mongoose": "",
+    "q": "1.0.1",
+    "request": "~2.29.0"
+  }
+}
